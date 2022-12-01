@@ -24,6 +24,7 @@
 		height:100px;
 		background-color: #d98d30;
 	}
+
 }
 @media screen and (max-width: 479px) {
 	.header{
@@ -44,11 +45,12 @@
 		background-color: #8c2727;
 	}
 	.main{
-		height:250px;
+		height:500px;
 	}
 	.footer{
 		width:150px;
 		height:100px;
 		background-color: #d98d30;
 	}
+	
 }
