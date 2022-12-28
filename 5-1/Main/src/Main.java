@@ -57,7 +57,7 @@ public class Main {
            Calendar cal = Calendar.getInstance();
            int[] arrayDate=new int[3];
            arrayDate[0] = cal.get(Calendar.YEAR);
-           arrayDate[1]=cal.get(Calendar.MONTH);
+           arrayDate[1]=(cal.get(Calendar.MONTH)+1);
            arrayDate[2]=cal.get(Calendar.DATE);
 //	    <以下記述>
 //      問⑧ 配列arrayDateをList型に置換しましょう。
