@@ -6,12 +6,12 @@
  <servlet>
  <servlet-name>select</servlet-name>
  <!--問① サーブレットのクラス名を入れてください。-->
- <servlet-class>Servlet</servlet-class>
+ <servlet-class>package_d.SelectServlet</servlet-class>
  </servlet>
  <servlet-mapping>
  <servlet-name>select</servlet-name>
  <!--問② URLパターンを記述してください。-->
- <url-pattern>/user</url-pattern>
+ <url-pattern>/6-1/user</url-pattern>
  </servlet-mapping>
   <display-name>6-1</display-name>
   <welcome-file-list>

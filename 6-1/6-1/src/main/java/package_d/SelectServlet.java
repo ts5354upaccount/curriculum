@@ -1,4 +1,5 @@
-package デフォルトパッケージ;
+package package_d;
+
 
 import java.io.IOException;
 import java.io.PrintWriter;
