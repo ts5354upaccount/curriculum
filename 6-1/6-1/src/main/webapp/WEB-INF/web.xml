@@ -11,7 +11,7 @@
  <servlet-mapping>
  <servlet-name>select</servlet-name>
  <!--問② URLパターンを記述してください。-->
- <url-pattern>/6-1/user</url-pattern>
+ <url-pattern>/user</url-pattern>
  </servlet-mapping>
   <display-name>6-1</display-name>
   <welcome-file-list>
